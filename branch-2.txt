@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 it's a branch-2.txt
+=======
+it's a branch-2.txt
+some changes
+>>>>>>> branch-2-1
